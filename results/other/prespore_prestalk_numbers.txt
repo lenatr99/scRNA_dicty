@@ -1,0 +1,4 @@
+AX4:
+Number of prespore cells at 12hr, 16hr, 20hr:  {'12hr': 5875, '16hr': 7729, '20hr': 6594}
+Number of prestalk cells at 12hr, 16hr, 20hr:  {'12hr': 1750, '16hr': 3584, '20hr': 1999}
+Percentages from prespore and prestalk: 77.05%, 68.32%, 76.74%

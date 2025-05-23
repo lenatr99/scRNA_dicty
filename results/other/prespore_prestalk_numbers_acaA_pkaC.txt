@@ -1,0 +1,4 @@
+acaA-pkaC:
+Number of prespore cells at 12hr, 16hr, 20hr:  {'12hr': 18531, '16hr': 13225, '20hr': 13247}
+Number of prestalk cells at 12hr, 16hr, 20hr:  {'12hr': 7077, '16hr': 4443, '20hr': 5327}
+Percentages from prespore and prestalk: 72.36%, 74.85%, 71.32%

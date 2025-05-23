@@ -1,0 +1,84 @@
+ddb_g,genename,Maeda_pattern,Accession number,heavy_light_log2_FC,cell_type,Common marker for this cell type,Use as a marker,My comments
+DDB_G0291314,DDB_G0291314,SLA449,AU060153,0.73,prespore,no,yes,late onset
+DDB_G0267412,pspA,SSJ770,AU037446,6.73,prespore,yes,yes,marks prestalk cells under some conditions
+DDB_G0283555,DDB_G0283555,SLA591,AU060216,2.27,prespore,no,yes,
+DDB_G0269254,sigJ,SLJ453,AU060363,5.22,prespore,no,yes,
+DDB_G0268028,DDB_G0268028,SLA466,AU072303,3.55,prespore,no,yes,late onset
+DDB_G0286925,DDB_G0286925,SLE392,AU034952,5.29,prespore,no,yes,
+DDB_G0276941,cotA,SLH115,AU061750,5.27,prespore,yes,yes,
+DDB_G0276939,pspB,SLF503,AU053006,4.48,prespore,no,yes,
+DDB_G0276165,DDB_G0276165,SSF894,C84812,6.17,prespore,no,yes,
+DDB_G0287231,manF,SLF822,AU061772,5.37,prespore,no,yes,RPKM is a bit low
+DDB_G0277379,pspD,SLB586,AU033901,3.4,prespore,no,yes,
+DDB_G0281507,colC,SSH704,AU073629,3.48,prespore,no,yes,
+DDB_G0280537,wacA,SSH604,AU073587,5.7,prespore,no,yes,
+DDB_G0286605,DDB_G0286605,SSB780,AU071553,4.57,prespore,no,yes,RPKM is a bit low
+DDB_G0280199,gadA,SLB722,AU034007,3.67,prespore,no,yes,RPKM is a bit low
+DDB_G0291476,DDB_G0291476,SSD113,C92118,5.8,prespore,no,yes,
+DDB_G0290925,psiD,SLC615,AU034607,5.25,prespore,no,yes,
+DDB_G0278953,DDB_G0278953,SSB171,AU071293,4.93,prespore,no,yes,RPKM is a bit low
+DDB_G0289047,DDB_G0289047,SLI845,AU062273,3.71,prespore,no,yes,RPKM is a bit low
+DDB_G0291952,DDB_G0291952,SSG326,C94045,4.65,prespore,no,yes,
+DDB_G0289693,DDB_G0289693,SSM768,C93202,5.43,prespore,no,yes,interesting - early onset
+DDB_G0288745,DDB_G0288745,SSB791,AU037337,4.07,prespore,no,yes,
+DDB_G0274309,DDB_G0274309,SSK438,AU074346,4.91,prespore,no,yes,
+DDB_G0276757,sigH,SSB695,AUO71513,6.93,prespore,no,yes,
+DDB_G0278731,pgtD,SLA580,AU060210,5.32,prespore,no,yes,RPKM is a bit low
+DDB_G0275295,galE,SSJ638,AU074151,2.87,prespore,no,yes,
+DDB_G0293286,psiR,SLE779,AU061603,4.67,prespore,no,yes,
+DDB_G0290291,DDB_G0290291,SSB358,C84233,5.05,prespore,no,yes,
+DDB_G0277141,cotC,SLB126,AU033521,4.38,prespore,yes,yes,
+DDB_G0283575,DDB_G0283575,SSH606,AU038352,6.22,prespore,no,yes,
+DDB_G0291392,DDB_G0291392,SLB103,AU060684,6.45,prespore,no,yes,late onset
+DDB_G0280085,DDB_G0280085,SSL337,AU038678,5.74,prespore,no,yes,
+DDB_G0267378,aqpA,SSC859,C93960,6.38,prespore,no,yes,
+DDB_G0276761,cotB,SLK851,C93960,4.42,prespore,yes,yes,
+DDB_G0286905,pspE,SSF323,AU072889,7.2,prespore,no,yes,late onset
+DDB_G0290245,psiC,SLC712,AU061040,4.98,prespore,no,yes,RPKM is a bit low
+DDB_G0291291,ecmF,PstA,AU061665,-2.76,prestalk,yes,yes,
+DDB_G0268592,dlpA,PstAB     SLA128 pattern,AU060722,0.29,prestalk,no,yes,expression starts very early; should be examined
+DDB_G0286025,DDB_G0286025,PstAB     SLA128 pattern,AU038850,-3.62,prestalk,no,yes,interesting - early onset
+DDB_G0273213,aslA-1,PstAB     SSK348 pattern,AU074317,-5.87,prestalk,no,yes,
+DDB_G0277853,ecmA,PstAB     SSB312 pattern,AU060501,-5.86,prestalk,yes,yes,
+DDB_G0269702,DDB_G0269702,PstAB     SSB312 pattern,AU071364,0.29,prestalk,no,yes,
+DDB_G0283153,cbpD1,PstO     SSM184 pattern,AU038878,-3.67,prestalk,no,yes,interesting - early onset
+DDB_G0277233,DDB_G0277233,PstO     SSM184 pattern,AU038948,-1.02,prestalk,no,yes,
+DDB_G0276919,pldG,PstO     SSM184 pattern,AU073765,0.71,prestalk,no,yes,interesting - early onset
+DDB_G0275253,DDB_G0275253,PstO     SLG775 pattern,AU074665,-1.24,prestalk,no,yes,interesting - early onset
+DDB_G0275695,ampA,PstO     SLG775 pattern,AU060648,-2.04,prestalk,yes,yes,
+DDB_G0275255,DDB_G0275255,PstO     SLG775 pattern,AU073534,0.24,prestalk,no,yes,
+DDB_G0279799,cprB,PstO     SLG775 pattern,AU061959,-0.12,prestalk,no,yes,interesting - early onset
+DDB_G0272530,DDB_G0272530,PstO     SLH659 pattern,AU060263,-3.33,prestalk,no,yes,
+DDB_G0269674,DDB_G0269674,PstO     SLH659 pattern,AU037168,-3.08,prestalk,no,yes,
+DDB_G0269672,DDB_G0269672,PstO     SLH659 pattern,AU073811,-3.61,prestalk,no,yes,
+DDB_G0292218,st15,PstO     SLH659 pattern,AU038606,-2.1,prestalk,no,yes,
+DDB_G0272420,DDB_G0272420,PstO     SLH659 pattern,AU073596,-3.85,prestalk,no,yes,
+DDB_G0292248,DDB_G0292248,PstAO     SSH475 pattern,C91391,-0.15,prestalk,no,yes,interesting - early onset
+DDB_G0285867,DDB_G0285867,PstO     SLH659 pattern,AU075086,-1.89,prestalk,no,yes,RPKM is a bit low
+DDB_G0283511,DDB_G0283511,PstAO     SSH475 pattern,C92972,-3.27,prestalk,no,yes,
+DDB_G0283503,DDB_G0283503,PstAO     SSH475 pattern,C84222,-3.63,prestalk,no,yes,
+DDB_G0283515,DDB_G0283515,PstAO     SSH475 pattern,C91268,-3.29,prestalk,no,yes,
+DDB_G0283507,DDB_G0283507,PstAO     SSH475 pattern,AU074602,-3.05,prestalk,no,yes,
+DDB_G0270190,DDB_G0270190,PstAO     SSH475 pattern,C90189,-4.48,prestalk,no,yes,
+DDB_G0286193,DDB_G0286193,PstAO     SSH475 pattern,C92856,-2.91,prestalk,no,yes,
+DDB_G0275411,DDB_G0275411,PstAO     SSH475 pattern,AU073109,-1.09,prestalk,no,yes,
+DDB_G0292996,rasD,PstAO     SSH475 pattern,AU061483,-1.08,prestalk,yes,yes,should be interesting to reexamine considering the early onset
+DDB_G0292224,ecmG,PstAO     SSH475 pattern,AU074481,-2.31,prestalk,no,yes,
+DDB_G0292912,psiN,PstAO     SSH475 pattern,AU071694,-4.2,prestalk,no,yes,
+DDB_G0272512,DDB_G0272512,PstAO     SLE474 pattern,AU037288,-1.23,prestalk,no,yes,
+DDB_G0269132,ecmB,PstAO     SLE474 pattern,AU035004,-4.98,prestalk,yes,yes,
+DDB_G0273397,carA-1,PstAO     SLE474 pattern,C94063,-0.57,prestalk,no,yes,interesting - early onset
+DDB_G0269940,osbC,PstAO     SLE474 pattern,AU071989,-0.46,prestalk,no,yes,
+DDB_G0293360,hssA,PstAO     SSA854 pattern,AU039124,-3.76,prestalk,no,yes,
+DDB_G0283501,DDB_G0283501,PstAO     SSA854 pattern,AU074011,-3.08,prestalk,no,yes,
+DDB_G0292968,DDB_G0292968,PstAO     SSA854 pattern,C90964,-1.06,prestalk,no,yes,interesting - early onset
+DDB_G0282107,DDB_G0282107,Late prestalk     SSE634 pattern,C84694,-0.93,prestalk,no,yes,interesting - early onset
+DDB_G0289517,DDB_G0289517,Late prestalk     SSE634 pattern,AU060554,-1.96,prestalk,no,yes,
+DDB_G0293356,DDB_G0293356,Late prestalk     SSE634 pattern,AU071922,-2.89,prestalk,no,yes,
+DDB_G0289443,DDB_G0289443,Late prestalk     SSE634 pattern,C93190,-1.17,prestalk,no,yes,
+DDB_G0293886,omt11,Late prestalk     SSE634 pattern,C89827,-0.87,prestalk,no,yes,
+DDB_G0284907,DDB_G0284907,Late prestalk     SSE634 pattern,AU071371,-0.55,prestalk,no,yes,
+DDB_G0270162,allB2,Late prestalk     SSE634 pattern,AU052407,-1.48,prestalk,no,yes,RPKM is a bit low
+DDB_G0273195,DDB_G0273195,Late prestalk     SSG721 pattern,AU073340,-1.95,prestalk,no,yes,
+DDB_G0293862,DDB_G0293862,Late prestalk     SSG721 pattern,AU037927,-0.12,prestalk,no,yes,interesting - early onset
+DDB_G0267898,DDB_G0267898,Late prestalk     SSG721 pattern,AU062141,-2.89,prestalk,no,yes,interesting - early onset
