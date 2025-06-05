@@ -65,7 +65,7 @@ Run the notebooks in order to reproduce the full analysis:
 
 1. **01\_quality\_control.ipynb**: Import raw counts, perform QC, filter low-quality cells.
 3. **02\_analysis.ipynb**: The complete analysis pipeline, including dimensionality reduction, clustering, cell-type annotation, and visualization.
-5. **03\_synchronicity.ipynb**: Analyze the synchrony of cell populations.
+5. **03\_synchrony.ipynb**: Analyze the synchrony of cell populations.
 
 Each notebook uses functions from `src/` to ensure consistency and reproducibility.
 
