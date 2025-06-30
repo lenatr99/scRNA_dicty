@@ -7,7 +7,7 @@ This repository provides a comprehensive analysis pipeline for single-cell RNA s
 * **Quality Control** of raw sequencing reads
 * **Dimensionality Reduction** ([UCE](https://github.com/snap-stanford/UCE?tab=readme-ov-file) embedder, UMAP)
 * **Clustering** and **Cell-Type Annotation**
-* **Synchrony** analysis of cell populations
+* **Synchronicity** analysis of cell populations
 
 This project is designed to be modular and reproducible, with clear separation of data processing, analysis logic, and visualization.
 
@@ -65,7 +65,7 @@ Run the notebooks in order to reproduce the full analysis:
 
 1. **01\_quality\_control.ipynb**: Import raw counts, perform QC, filter low-quality cells.
 3. **02\_analysis.ipynb**: The complete analysis pipeline, including dimensionality reduction, clustering, cell-type annotation, and visualization.
-5. **03\_synchrony.ipynb**: Analyze the synchrony of cell populations.
+5. **03\_synchronicity.ipynb**: Analyze the synchronicity of cell populations.
 
 Each notebook uses functions from `src/` to ensure consistency and reproducibility.
 
@@ -76,7 +76,7 @@ Each notebook uses functions from `src/` to ensure consistency and reproducibili
 
 ### Results
 
-* **Figures**: High-quality UMAP plots, synchrony plots in `results/figures/`
+* **Figures**: High-quality UMAP plots, synchronicity plots in `results/figures/`
 * **Other**: Summaries and tables in `results/other/`
 
 *Last updated: May 23, 2025*
