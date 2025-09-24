@@ -39,9 +39,7 @@ This project is designed to be modular and reproducible, with clear separation o
 
 ### Data Sources
 
-* **Wild-type (*AX4*)** scRNA-seq: TBD
-* ***acaA<sup>-</sup>*** scRNA-seq: TBD
-* ***acaA<sup>-</sup>pkaC<sup>OE</sup>*** scRNA-seq: TBD
+All data is available in the [GEO repository](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE305468) using the token mxyrwsauthuldeh.
 
 ### Directory Structure
 
@@ -79,4 +77,4 @@ Each notebook uses functions from `src/` to ensure consistency and reproducibili
 * **Figures**: High-quality UMAP plots, synchronicity plots in `results/figures/`
 * **Other**: Summaries and tables in `results/other/`
 
-*Last updated: May 23, 2025*
+*Last updated: September 23, 2025*
