@@ -39,7 +39,7 @@ This project is designed to be modular and reproducible, with clear separation o
 
 ### Data Sources
 
-All data is available in the [GEO repository](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE305468) using the token mxyrwsauthuldeh.
+All data is available in the [GEO repository](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE305468) with GEO accession number GSE305468.
 
 ### Directory Structure
 
