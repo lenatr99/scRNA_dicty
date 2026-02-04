@@ -1,4 +1,4 @@
-name: scRNA_env2
+name: scRNA_env
 channels:
   - conda-forge
   - defaults

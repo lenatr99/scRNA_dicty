@@ -3,7 +3,7 @@ import pandas as pd
 import scanpy as sc
 from scipy.stats import gaussian_kde
 from scipy.signal import argrelextrema
-from sklearn.metrics.pairwise import euclidean_distances
+from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
 
 
 def assign_markers(adata, time_points, neon_all=False, verbose=False):
@@ -94,6 +94,29 @@ def average_pairwise_euclidean_similarity(X):
     S = euclidean_distances(X)
     S_off_diag = S[np.triu_indices(n, k=1)]
     avg_similarity = (2 - S_off_diag.mean()) / 2
+    return avg_similarity
+
+
+def average_pairwise_cosine_similarity(X):
+    """
+    Computes the average pairwise cosine similarity among all rows of X.
+
+    Parameters
+    ----------
+    X : np.ndarray
+        N x D matrix where each row is a cell embedding.
+
+    Returns
+    -------
+    float
+        The average pairwise cosine similarity.
+    """
+    n = X.shape[0]
+    if n < 2:
+        return np.nan
+    S = cosine_distances(X)
+    S_off_diag = S[np.triu_indices(n, k=1)]
+    avg_similarity = 1 - S_off_diag.mean()/2
     return avg_similarity
 
 def bootstrap_confidence_interval(data, num_bootstrap=10000, ci=95):
